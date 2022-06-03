@@ -165,6 +165,14 @@ header {
     padding: 1rem;
 }
 
+.slide-down {
+    font-family: var(--family-franklin);
+    color: var(--color-3);
+    font-weight: 400;
+    text-transform: uppercase;
+    position: relative;
+}
+
 #navigation-menu svg {
     cursor: pointer;
     position: absolute;

@@ -191,6 +191,10 @@ header {
 }
 
 .slide-down {
+    font-family: var(--family-franklin);
+    color: var(--color-3);
+    font-weight: 400;
+    text-transform: uppercase;
     position: relative;
 }
 
