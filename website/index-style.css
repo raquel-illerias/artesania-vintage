@@ -191,10 +191,6 @@ header {
 }
 
 .slide-down {
-    font-family: var(--family-franklin);
-    color: var(--color-3);
-    font-weight: 400;
-    text-transform: uppercase;
     position: relative;
 }
 
@@ -220,6 +216,15 @@ header {
     opacity: 1;
     visibility: visible;
 }
+
+.slide-down {
+    font-family: var(--family-franklin);
+    color: var(--color-3);
+    font-weight: 400;
+    text-transform: uppercase;
+    position: relative;
+}
+
 
 /* ================ BANNER IMAGES =============== */
 main {
@@ -639,6 +644,7 @@ footer .FAQ {
         min-height: auto;
         display: flex;
         align-items: center;
+        margin: 10rem 0;
     }
 
     .video video {

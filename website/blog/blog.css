@@ -243,6 +243,7 @@ main {
     justify-content: center;
     margin: 7rem 0;
     font-family: var(--family-stylish);
+    font-size: 1.5rem;
 }
 
 .entry {

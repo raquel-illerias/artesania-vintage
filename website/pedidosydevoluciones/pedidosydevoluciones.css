@@ -205,6 +205,7 @@ header {
     justify-content: center;
     opacity: 0;
     visibility: hidden;
+    font-family: var(--family-stylish);
 }
 
 .categories-menu li a {
@@ -242,6 +243,7 @@ main {
     align-items: center;
     justify-content: center;
     margin:7rem 0 0;
+    font-family: var(--family-stylish);
 }
 
 .text-box {
